@@ -7,7 +7,6 @@ Web Developer
 Systems engineer from 10 years, developer as full time for almost 4 years! love to develop with Laravel. I'm always looking for a new and interesting proyects to do.
 
 * ✉️  You can contact me at [jacoboarturo3@gmail.com](mailto:jacoboarturo3@gmail.com)
-* 🚀  I'm currently working on [American Import](http://americanimport.cl)
 * 🧠  I'm learning React, Node.js
 
 ### Skills
